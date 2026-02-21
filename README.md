@@ -9,7 +9,6 @@ This project implements stock price forecasting using:
 
 ## Structure
 
-- notebooks/ → Experimental notebooks
 - models/ → Saved models and custom LSTM implementation
 - app/ → Streamlit deployment
 - train_keras.py → Train Keras LSTM
